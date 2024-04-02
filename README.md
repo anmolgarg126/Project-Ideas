@@ -1,2 +1,3 @@
 # Project-Ideas
-This repo contains all the project ideas for every level
+
+This repository hosts a comprehensive collection of project ideas tailored for software engineers across all experience levels.
